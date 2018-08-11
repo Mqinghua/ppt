@@ -1,5 +1,9 @@
 #/usr/bin/python3.6
 #-*- coding=utf-8 -*-
+"""
+Created on Wed Jun  1 10:30:04 2018
+@author: crunch
+"""
 import sys
 from PyQt5.QtGui import *
 from PyQt5.QtCore import *
